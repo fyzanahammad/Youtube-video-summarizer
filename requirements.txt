@@ -1,4 +1,5 @@
 streamlit 
-yt-dlp 
+pytube 
+python-dotenv
 whisper 
 gemini_pro
